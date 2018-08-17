@@ -11,4 +11,3 @@ $ chmod a+x netease-cloud-music.sh
 $ ./netease-cloud-music.sh
 ```
 ## Copyright
-test
